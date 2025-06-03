@@ -26,7 +26,7 @@
 ### 🔗 **APIs & Backend Development**  
 - **RESTful APIs**: Scalable API development with authentication, middleware, and error handling.  
 - **.NET Core** : LINQ , Entity Framework , SOLID principles
-- **atabase**: Scalable RESTful APIs, JWT authentication, Swagger documentation.
+- **Node JS & Express JS**: Scalable RESTful APIs, JWT authentication, Swagger documentation.
 - **Design Patterns & Architecture**: MVC, Dependency Injection, Microservices, and Distributed Systems.
 - **Database**: MySQL, MongoDB
 
